@@ -1,5 +1,8 @@
-# Korean-PII-Masking-BERT
+# Korean-PII-Masking-BERT  
 한국어 데이터 개인정보 마스킹 BERT
+
+## Hugging Face Model Card 😊
+- [alphagyuu/Korean-PII-Masking-BertForTokenClassification](https://huggingface.co/alphagyuu/Korean-PII-Masking-BertForTokenClassification)
 
 ---
 
@@ -55,17 +58,18 @@ Korean-PII-Masking-BERT/
 - **Macro-average Precision**: 0.96  
 - **Recall**: 0.91  
 - **F1-Score**: 0.94  
-
 를 기록하였습니다.
 
 ## Limitations ⚠️
 - 짧은 문장에서는 context 부족으로 masking rate가 저하되는 현상이 있어 추가 학습이 필요합니다.
 - 실사용 시 100% 마스킹이 보장되지 않아 주의해야 합니다.
 
-## License 📜
-본 결과물은 교육부와 한국연구재단의 재원으로 지원을 받아 수행된 디지털 신기술 인재양성 혁신공유대학사업의 연구결과입니다.
-
+## Funding 💰
+본 결과물은 교육부와 한국연구재단의 재원으로 지원을 받아 수행된 디지털 신기술 인재양성 혁신공유대학사업의 연구결과입니다.  
 이 연구는 과학기술정보통신부의 재원으로 한국지능정보사회진흥원의 지원을 받아 구축된 "데이터명"을 활용하여 수행된 연구입니다.  
 본 연구에 활용된 데이터는 [AI 허브](https://aihub.or.kr)에서 다운로드 받으실 수 있습니다.  
 This research (paper) used datasets from 'The Open AI Dataset Project (AI-Hub, S. Korea)'.  
 All data information can be accessed through [AI-Hub](https://www.aihub.or.kr).
+
+## License 📜
+해당 프로젝트는 [LICENSE](LICENSE) 파일을 참조하시기 바랍니다.
