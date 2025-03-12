@@ -1,7 +1,7 @@
 # Korean-PII-Masking-BERT
 한국어 데이터 개인정보 마스킹 BERT
 
-## 개요
+---
 Korean-PII-Masking-BERT는 한국어 개인정보 데이터를 보호하기 위해 BERT 기반의 마스킹 및 가명정보 생성 파이프라인을 제공합니다.  
 이 저장소는 다음과 같은 주요 기능을 포함합니다.
 
