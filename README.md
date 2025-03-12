@@ -2,9 +2,11 @@
 # Korean-PII-Masking-BERT  
 한국어 데이터 개인정보 마스킹 BERT
 
+
 ---
 
-Korean-PII-Masking-BERT는 가명정보를 통해 가공한 한국어 SNS 데이터셋을 기반으로 KcBERT를 파인튜닝하고, CRF Layer를 결합한 토큰 분류 모델입니다.  
+Korean-PII-Masking-BERT는 가명정보를 통해 가공한 한국어 SNS 데이터셋을 기반으로 KcBERT를 파인튜닝하고, CRF Layer를 결합한 토큰 분류 모델입니다. 
+
 상세한 내용은 "[생성형AI 시대의 한국어 데이터를 위한 개인정보 보호: KcBERT와 Chain-of-Thought 프롬프팅 기반 하이브리드 접근을 중심으로](https://www.earticle.net/Article/A463753)" 논문에 자세히 소개되어 있습니다.
 
 ## Introduction
