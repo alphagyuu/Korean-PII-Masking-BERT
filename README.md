@@ -82,4 +82,4 @@ All data information can be accessed through [AI-Hub](https://www.aihub.or.kr).
 
 
 ## License 📜
-해당 프로젝트는 [LICENSE](LICENSE) 파일을 참조하시기 바랍니다.
+apache-2.0 [LICENSE](LICENSE) 
