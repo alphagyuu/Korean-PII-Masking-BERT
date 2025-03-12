@@ -75,7 +75,7 @@ Korean-PII-Masking-BERT/
 
 ## Funding 💰
 본 결과물은 교육부와 한국연구재단의 재원으로 지원을 받아 수행된 디지털 신기술 인재양성 혁신공유대학사업의 연구결과입니다.  
-이 연구는 과학기술정보통신부의 재원으로 한국지능정보사회진흥원의 지원을 받아 구축된 "데이터명"을 활용하여 수행된 연구입니다.  
+이 연구는 과학기술정보통신부의 재원으로 한국지능정보사회진흥원의 지원을 받아 구축된 "한국어 SNS 데이터셋"을 활용하여 수행된 연구입니다.  
 본 연구에 활용된 데이터는 [AI 허브](https://aihub.or.kr)에서 다운로드 받으실 수 있습니다.  
 This research (paper) used datasets from 'The Open AI Dataset Project (AI-Hub, S. Korea)'.  
 All data information can be accessed through [AI-Hub](https://www.aihub.or.kr).
