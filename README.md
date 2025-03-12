@@ -15,6 +15,7 @@ Korean-PII-Masking-BERT의 가명정보 생성 파이프라인과 학습, 추론
 - **파이프라인 자동화**: 각 단계별 스크립트를 개별적으로 실행할 수 있으며, `app.py`를 통해 전체 파이프라인을 순차적으로 실행할 수 있습니다.
 
 ## Directory Structure
+```
 Korean-PII-Masking-BERT/
 ├── data_generation/
 │   ├── app.py                           # 전체 실행 (preprocess.py, prepare_batch_input.py, process_gpt_api_responses.py)
@@ -37,6 +38,7 @@ Korean-PII-Masking-BERT/
     ├── KcBERT+CRF_finetune.py             # KcBERT + CRF 모델 파인튜닝
     └── data/
         └── standard_form/               # 표준 형식의 JSON 파일 및 학습 데이터 저장
+```
 
 ## How to Use
 1. 각 단계별 디렉토리에서 제공하는 `app.py` 파일을 통해 전체 파이프라인을 순차적으로 실행합니다.
